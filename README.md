@@ -1,4 +1,4 @@
-# 🐍 Python Fast-Track Bootcamp - Instructor Syllabus
+# 🐍 Python Fast-Track Bootcamp 
 
 ## 🗓️ Schedule Overview
 - **Duration:** 6 Weeks
